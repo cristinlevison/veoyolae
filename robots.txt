@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iexutahpie.pilska-hospoda.cz/sitemap.xml
